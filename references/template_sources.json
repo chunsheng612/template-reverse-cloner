@@ -1,0 +1,18 @@
+{
+  "version": "2.0.0",
+  "captured_date": "2026-10-25",
+  "source_bundle": "G:\\我的雲端硬碟\\115科技領域\\116-skill超強增能活動\\1151230_台北市光復國小\\01_光復國小模組一_AI輔助備課實戰範本包.zip",
+  "source_bundle_sha256_before_upgrade": "e5d86f1c610c42544a2869bfe880bcb0a1080201453bded52c9d7742cb173638",
+  "templates": {
+    "lesson": {
+      "member": "網路表件範本/公開授課教案格式_空白.docx",
+      "asset": "assets/templates/公開授課教案格式_空白.docx",
+      "sha256": "35c8332973ca7d9b174c51b0089018a6eae32b36d1ce69b591ae11441b125a4e"
+    },
+    "observation": {
+      "member": "網路表件範本/TDO公開授課紀錄表及觀察工具_科技央團_觀課者：XXX_1.docx",
+      "asset": "assets/templates/TDO公開授課紀錄表及觀察工具_科技央團_觀課者：XXX_1.docx",
+      "sha256": "2ddad731ea83e7cf728794fc16e2463d81a9d7041e3aa83295acd3acc94eb658"
+    }
+  }
+}
